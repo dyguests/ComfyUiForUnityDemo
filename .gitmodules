@@ -1,0 +1,3 @@
+[submodule "Assets/Dependencies/Koyou/Commons"]
+	path = Assets/Dependencies/Koyou/Commons
+	url = git@github.com:Koyou-Game/Unity.Common.git
