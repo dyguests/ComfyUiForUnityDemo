@@ -1647,7 +1647,7 @@ MonoBehaviour:
   pInput: {fileID: 1685289731}
   nInput: {fileID: 57579371}
   promptJsonInput: {fileID: 1602956171}
-  promptJson: "{   \"3\": {     \"inputs\": {       \"seed\": 376285385380291,      
+  promptJson: "{   \"3\": {     \"inputs\": {       \"seed\": 400291344126650,      
     \"steps\": 20,       \"cfg\": 8,       \"sampler_name\": \"euler\",       \"scheduler\":
     \"normal\",       \"denoise\": 1,       \"model\": [         \"4\",         0      
     ],       \"positive\": [         \"6\",         0       ],       \"negative\":
